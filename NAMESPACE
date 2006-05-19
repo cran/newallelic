@@ -1,0 +1,2 @@
+useDynLib(newallelic)
+export( newallelic )
